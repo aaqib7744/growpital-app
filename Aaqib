@@ -1,0 +1,9 @@
+<!-- Describing the functionality and added features -> https://www.growpital.com
+
+HTML
+
+1. First I have created html and css file, and connect css file with html. I used external css.
+2. I create parent and child class, gave parent class is container and child classes is b1 and b2.
+3. Added image using img tag, added button using href, created buttons and set download attribute to download the image.
+
+CSS 4. In css using float and paddings aligned all images side by side. 5. Gave the shadow effect to buttons using box shadow. 6. Set hover effect on buttons using hover and set hover to light blue color. 7. If you click on download button image will download directly on same tab. 8. To keep page in same tab after clicking on download we used target=”\_blank” property -->

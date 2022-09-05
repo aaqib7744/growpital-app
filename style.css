@@ -1,0 +1,82 @@
+.button {
+  position: absolute;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-family: "sana-serif";
+  color: #fff;
+  background: #171617;
+  width: 200px;
+  padding: 10px 10px;
+  text-align: center;
+  border-radius: 10px 20px;
+  float: left;
+  padding: 3px;
+  transition-duration: 0.4s;
+}
+
+.h1 {
+  text-align: center;
+  color: lightslategrey;
+  background-color: #171617;
+}
+
+* {
+  margin-left: 35px;
+  margin-top: 7px;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ccc;
+}
+
+.b1 {
+  float: left;
+  padding: 3px;
+}
+
+.b1 #pic {
+  width: 50%;
+  height: 50px;
+}
+
+.container {
+  position: relative;
+}
+
+#btn-1 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: absolute;
+  left: 53px;
+  top: 25px;
+}
+#btn-2 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: absolute;
+  right: 533px;
+  top: 24px;
+}
+
+#btn-3 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: absolute;
+  left: 53px;
+  top: 411px;
+}
+#btn-4 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: absolute;
+  left: 638px;
+  top: 411px;
+}
+
+#btn-1:hover {
+  background-color: #5651e9;
+}
+#btn-2:hover {
+  background-color: #5651e9;
+}
+#btn-3:hover {
+  background-color: #5651e9;
+}
+#btn-4:hover {
+  background-color: #5651e9;
+}
